@@ -35,3 +35,6 @@ Make decisions and solve puzzles in a variety of story minigames that affect the
 
 ## Tags
 #Mars #videogame #SpaceAppsNYC #SpaceAppsMNL
+
+## GLOBAL JUDGING
+This project has been submitted for consideration during the Judging process.
