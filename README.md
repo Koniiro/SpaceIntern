@@ -20,9 +20,12 @@ The Space Intern aims to introduce and explore the aforementioned challenges ast
 ## Minigames
 Make decisions and solve puzzles in a variety of story minigames that affect the health and safety of their crew. 
 1. Don’t forget to check your email and tasks every day
-1. Floating equipment can be hazardous! Velcro everything down.
-1. Learn how food is prepared in space and why mealtime is so important
-1. Don’t forget to sleep! A growing intern needs a lot of rest.
+2. Floating equipment can be hazardous! Velcro everything down.
+3. Learn how food is prepared in space and why mealtime is so important
+4. Don’t forget to sleep! A growing intern needs a lot of rest.
+ 
+## Game Engine
+This project was developed using the Unity game engine and compiled as a WebGL file. Unity was used since it has a flexible workspace which enables us developers to simulate space environments. 
 
 ### Software Tools
 - Github Repository (Game Code) https://github.com/Koniiro/SpaceIntern
